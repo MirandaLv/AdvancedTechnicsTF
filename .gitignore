@@ -5,7 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
-
+*.zip
+*.h5
+*.hdf5
+*.png
 # Distribution / packaging
 .Python
 build/
